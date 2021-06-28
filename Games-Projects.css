@@ -379,7 +379,7 @@
 .u-section-4 .u-image-2 {
   min-height: 304px;
   pointer-events: auto;
-  background-image: url("images/ilpousse.gif");
+  background-image: url("images/il_pousse2.gif");
   background-position: 50% 50%;
 }
 
@@ -545,6 +545,11 @@
   padding: 10px;
 }
 
+.u-section-5 .u-over-slide-6 {
+  min-height: 100px;
+  padding: 10px;
+}
+
 .u-section-5 .u-carousel-control-1 {
   position: absolute;
   left: -61px;
@@ -567,14 +572,12 @@
   }
 
   .u-section-5 .u-gallery-1 {
-    height: 376px;
     margin-top: -621px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-5 .u-gallery-1 {
-    height: 254px;
     margin-top: -771px;
   }
 }
