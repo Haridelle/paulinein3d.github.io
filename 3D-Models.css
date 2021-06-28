@@ -258,7 +258,6 @@
 .u-section-2 .u-gallery-2 {
   height: 500px;
   grid-gap: 10px 10px;
-  width: 1140px;
   margin: 19px auto 0;
 }
 
@@ -346,7 +345,6 @@
   .u-section-2 .u-gallery-2 {
     margin-right: initial;
     margin-left: initial;
-    width: auto;
   }
 
   .u-section-2 .u-image-4 {
